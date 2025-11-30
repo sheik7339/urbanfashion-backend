@@ -6,3 +6,7 @@ gunicorn
 razorpay
 djangorestframework-simplejwt
 Pillow
+whitenoise
+dj-database-url
+cloudinary
+django-cloudinary-storage
